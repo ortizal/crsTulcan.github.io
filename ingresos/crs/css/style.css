@@ -1,0 +1,8 @@
+table tbody tr td img{
+    height: 30px;
+    width: 30px;
+}
+table tbody tr td img:hover{
+    cursor: pointer;
+  background: rgb(16, 115, 245, 10%);
+}
